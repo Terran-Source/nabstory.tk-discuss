@@ -1,9 +1,9 @@
 ---
-name: <Story Name>
-about: <Story Name>
-url: <Story URL>
-title: '✍️'
-labels: ''
+name: Story Discussion
+about: Discussion about a Story
+title: '✍️ <Story Title> <URL>'
+labels:
+  - discussion
 assignees: ''
 
 ---
@@ -23,4 +23,4 @@ If applicable, add screenshots to help explain your problem.
  - Date
 
 **Additional context**
-Add any other context about the problem here.
+Add any other context about the story here.
