@@ -1,7 +1,11 @@
 ---
 name: <Story Name>
+about: <Story Name>
 url: <Story URL>
 title: '✍️'
+labels: ''
+assignees: ''
+
 ---
 
 **Describe the Story**

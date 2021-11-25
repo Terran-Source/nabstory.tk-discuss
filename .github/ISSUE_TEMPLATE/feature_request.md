@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Request Title
 about: Something Cool or Hot
 title: '✍️'
 labels: ''
@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-| Bug  | Problem                               | Solution          | Alternetives          |
-| ---- | ------------------------------------- | ----------------- | --------------------- |
-| #BUG | The #BUG has this, this problem [...] | Proposed solution | Alternatives to check |
+| Title  | Inspiration             | Guidance     | Alternetives          |
+| ------ | ----------------------- | ------------ | --------------------- |
+| #Title | It has this, that [...] | Proposed way | Alternatives to check |
 
 
 **Additional context**
