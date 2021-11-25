@@ -4,8 +4,8 @@ We created https://www.nabstory.tk out of passion, pure fun & love for humanity.
 
 This repository is an **_attempt_** and/or a **_social experiment_** to **at least** keep the window open. Any suggestions or problem or comments about any posts in https://www.nabstory.tk!!! Let's discuss here.
 
-### Code of Conduct
+### Mode of Conduct
 
-- Open a new [Issue](https://github.com/Terran-Source/nabstory.tk-discuss/issues) for a story/writeup if you have something to say
+- Open a ***New Issue*** at [Discussion/Issues](https://github.com/Terran-Source/nabstory.tk-discuss/issues) for a story/writeup if you have something to say
 - Please search for any ongoing discussion regarding a story in any existing issue and feel free to jump in
 - Be respectful to yourself and others as well
